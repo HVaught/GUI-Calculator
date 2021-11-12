@@ -1,0 +1,10 @@
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\bin\Debug\GUI Calculator Mk. 2.exe.config
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\bin\Debug\GUI Calculator Mk. 2.exe
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\bin\Debug\GUI Calculator Mk. 2.pdb
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\obj\Debug\GUI Calculator Mk. 2.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\obj\Debug\GUI_Calculator_Mk._2.Form1.resources
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\obj\Debug\GUI_Calculator_Mk._2.Properties.Resources.resources
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\obj\Debug\GUI Calculator Mk. 2.csproj.GenerateResource.cache
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\obj\Debug\GUI Calculator Mk. 2.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\obj\Debug\GUI Calculator Mk. 2.exe
+C:\Users\hunte\source\repos\GUI Calculator Mk. 2\GUI Calculator Mk. 2\obj\Debug\GUI Calculator Mk. 2.pdb

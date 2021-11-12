@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI Calculator Mk. 2", "GUI Calculator Mk. 2\GUI Calculator Mk. 2.csproj", "{67FF0AD9-E53B-492B-AFC8-8EB95F0F432E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FF0AD9-E53B-492B-AFC8-8EB95F0F432E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FF0AD9-E53B-492B-AFC8-8EB95F0F432E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FF0AD9-E53B-492B-AFC8-8EB95F0F432E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FF0AD9-E53B-492B-AFC8-8EB95F0F432E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A3FCEB-796D-4C7A-89B7-06C17E3FAA59}
+	EndGlobalSection
+EndGlobal
